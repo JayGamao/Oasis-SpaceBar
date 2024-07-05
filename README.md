@@ -1,5 +1,7 @@
 **Oasis Spacebar Mobile Application**
 
+![Oasis SpaceBar](Assets/Oasis%20SpaceBar%20Logo.png
+
 Project Overview
 
 The Oasis Spacebar mobile application is designed to simplify and streamline the reservation process for luxury resort stays. This user-friendly app provides a convenient platform for guests to check room availability, compare options, make secure reservations, and manage their bookings seamlessly from their mobile devices.
